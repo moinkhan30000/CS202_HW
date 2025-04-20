@@ -1,2 +1,18 @@
-# CS202_HW
-C++ homework solutions for CS202: Fundamental Structures of Computer Science II at Bilkent University. Covers topics like OOP, dynamic memory, recursion, and data structures (linked lists, trees, heaps, etc.). For learning/reference only—avoid plagiarism if you're taking the course.
+# 📚 CS202 - C++ Homework Solutions
+
+This repository contains C++ homework solutions for **CS202: Fundamental Structures of Computer Science II** at **Bilkent University**.
+
+The course focuses on advanced programming concepts in C++, including:
+- Object-Oriented Programming (OOP)
+- Dynamic memory management
+- Recursion
+- Data structures like linked lists, stacks, queues, binary trees, and heaps
+- Algorithmic problem solving
+
+## 📁 Repository Structure
+Each homework is organized in its own folder, containing source files (`.cpp`, `.h`).
+
+Example:
+/HW1
+├── classes.cpp
+├── classes.h
